@@ -19,7 +19,7 @@ TaskSync Pro is a real-time collaborative task management application that enabl
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NexGen-CodeLabs/task-sync-pro-frontend.git
+   git clone https://github.com/NexGen-CodeLabs/task-sync-pro-frontend
    cd task-sync-pro-frontend
    ```
 
